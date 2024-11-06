@@ -1,4 +1,5 @@
 Rencana Konten personal Branding Daanz
   -tentang html dan CSS
     *HTML 5
-
+  - JavaScript 
+    *ES6
